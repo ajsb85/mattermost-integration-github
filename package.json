@@ -7,7 +7,7 @@
   "author": "Alexander Salas Bastidas <a.salas@ieee.org> (http://ajsb85.com/)",
   "license": "GPL-3.0",
   "dependencies": {
-    "hapi": "^16.1.0",
+    "hapi": "^18.1.0",
     "hapi-github-webhooks": "^1.0.3"
   }
 }
